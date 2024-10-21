@@ -1,0 +1,88 @@
+/* 重置样式 */
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:0.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace, monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}input[type="search"]{-webkit-appearance:textfield;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}*{margin:0;padding:0}ul{list-style:none}
+
+/* 微信浏览器兼容样式 */
+.wxtip{background: rgba(0,0,0,0.8); text-align: center; position: fixed; left:0; top: 0; width: 100%; height: 100%; z-index: 998; display: none;}
+.wxtip-icon{width: 52px; height: 67px; background: url(../images/weixin-tip.png) no-repeat; display: block; position: absolute; right: 20px; top: 20px;}
+.wxtip-txt{margin-top: 107px; color: #fff; font-size: 16px; line-height: 1.5;}
+
+/* 页面样式 */
+html {
+	font-size: 16px;
+}
+header {
+	height: 10%;
+	margin: 0 auto;
+	background-image: url(../images/banner.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+    background-size: cover;
+}
+.bg {
+	height: 40.15%;
+	margin-top: 3.6%;
+	background-image: url(../images/bg.png);
+	background-repeat: no-repeat;
+	background-position: center;
+    background-size: contain;
+}
+.lpkbg {
+	height: 40.15%;
+	margin-top: 3.6%;
+	background-image: url(../images/lpkbg.png);
+	background-repeat: no-repeat;
+	background-position: center;
+    background-size: contain;
+}
+.app_name,.app_des {
+    font-family: '微软雅黑';
+	text-align: center;
+    font-weight: 400;
+}
+.app_name {
+	margin-top: 18px;
+	color: #000;
+	font-size: 28px;
+	font-size: 18pt;
+	line-height: 2.3;
+}
+.app_des {
+	color: #303030;
+	font-size: 18px;
+	font-size: 12pt;
+    line-height: 1;
+}
+.download_btn {
+	background-color: #2783eb;
+    color: #fff;
+    border: none;
+    width: 205pt;
+    height: 34.5pt;
+    font-size: 18pt;
+    font-weight: 600;
+    background-size: 21.5pt;
+    background-repeat: no-repeat;
+	outline: none;
+    border-radius: 3pt;
+}
+.ios {
+    background-image: url(../images/ios-icon.png);
+    background-position: 38pt center;
+    text-indent: 14pt;	
+}
+.android {
+	background-image: url(../images/android-icon.png);
+    background-position: 29pt center;
+    text-indent: 31pt;
+}
+.down_load_block {
+    margin-top: 32px;
+	text-align: center;
+}
+.copyrights {
+    margin-top: 62px;
+    margin-bottom: 10px;
+	font-size: 10pt;
+	text-align: center;
+	color: #4e4e4e;
+}

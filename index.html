@@ -1,0 +1,73 @@
+﻿<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<title>小鸽Ai助学</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link rel="stylesheet" href="css/download.css" />
+	<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+</head>
+<body>
+	<!-- 头部背景 start -->
+	<header></header>
+	<!-- 头部背景 end -->
+	<!-- logo大背景 start -->
+	<div class="bg"></div>
+	<!-- logo大背景 end -->
+
+	<p class="app_name">小鸽Ai助学（中学版）</p>
+	<p class="app_des">该产品可帮助老师针对中考目标快速制作最优质的模考试卷和复习资料，极大减轻老师的教学负担，提升教学效果;同时可智能诊断学生知识点掌握情况，提供个性化网络辅导方案和精炼复习资料，大大节省复习时间，提高复习效率。</p>
+
+	<div class="down_load_block">
+		<input class="download_btn ios" id="btnApple" type="button" value="IOS版下载" onclick="downloadIOSApp();" />
+		<input class="download_btn android" id="btnAndroid" type="button" value="Android版下载" onclick="downloadApk();" />
+	</div>
+
+	<p class="copyrights">@蓝鸽集团版权所有 2015-2024</p>
+	<!-- 微信、支付宝扫码兼容提示 start -->
+	<div class="wxtip" id="JweixinTip">
+		<span class="wxtip-icon"></span>
+		<p class="wxtip-txt">点击右上角<br />选择在浏览器中打开</p>
+	</div>
+	<!-- 微信、支付宝扫码兼容提示 end -->
+
+	<script type="text/javascript">
+
+		$(function () { checkBrowserType(); $('body').height($(window).height()); });
+
+		function checkBrowserType() {
+            var u = window.navigator.userAgent;
+			if (u.indexOf('Mobile') > -1) {
+				//移动端
+				if (!!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/)) {//ios
+					if (u.indexOf('iPhone') > -1 || u.indexOf('iPod') > -1 || u.indexOf('iPad') > -1) {//iphone,iPod,iPad
+						document.getElementById("btnAndroid").style.display = "none";
+						downloadIOSApp();
+					}
+				}
+				else if (u.indexOf('Android') > -1 || u.indexOf('Linux') > -1) {//android
+					document.getElementById("btnApple").style.display = "none";
+				}
+			}
+			else {
+				document.getElementById("btnApple").style.display = "none";
+			}
+		}
+		function downloadApk() {
+			var u = window.navigator.userAgent.toLowerCase();
+            if (u.match(/MicroMessenger/i) == "micromessenger" || u.match(/AlipayClient/i) == "alipayclient" || u.match(/QQ/i) == "qq") {
+				document.getElementById('JweixinTip').style.display = 'block';
+            }
+			else {
+				window.location.href = 'https://obs-lancooznbk-middle.obs.cn-east-2.myhuaweicloud.com/apk/aikaoshifuxi/znbkxx-release.apk';
+			}
+		}
+
+		function downloadIOSApp() {
+			window.location.href = 'https://itunes.apple.com/app/apple-store/id1454379239?mt=8';
+		}
+	</script>
+</body>
+</html>
