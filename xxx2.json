@@ -1,0 +1,2527 @@
+{
+    "Layer": 0,
+    "StageNo": "C",
+    "TempletID": "",
+    "PaperID": "P2024924177418450",
+    "PaperName": "课后习题",
+    "BigAudioPath": "",
+    "SchoolID": "S-437",
+    "SetID": "",
+    "MadeTID": "",
+    "SetName": "",
+    "AnswerLength": 90,
+    "FullScore": 14.0,
+    "PaperQualityAnalyze": {
+        "PaperEffective": "",
+        "PaperMatchRate": "",
+        "PaperKnowledgeRate": "",
+        "PaperDifficulty": "",
+        "PaperHValLevel": 0,
+        "PaperCorrelationRate": ""
+    },
+    "TypeList": [
+        {
+            "QuesList": [
+                {
+                    "SortIndexList": [],
+                    "Index": 1,
+                    "QuesID": "9286e390b4e34177b99924e10879409e"
+                }
+            ],
+            "QuesDetailList": [
+                {
+                    "BigAudioPath": "",
+                    "QuesID": "9286e390b4e34177b99924e10879409e",
+                    "AudioList": [],
+                    "LittleAudioList": [],
+                    "AudioArticle": "",
+                    "LevelType": 2,
+                    "EvalType": 0,
+                    "GenreType": "",
+                    "HVAL": "0.50",
+                    "DVAL": "0.30",
+                    "EXVAL": "0.0",
+                    "SpecialFeatureCodes": "48",
+                    "QuesChildNum": 10,
+                    "TotalItemCount": 10,
+                    "SortNum": 10,
+                    "Theme": "",
+                    "ImportKlgList": [
+                        {
+                            "Code": null,
+                            "Name": "tourism",
+                            "UniqueCode": "C0E311910DoiAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "fetch",
+                            "UniqueCode": "C0C0402105EgAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "major",
+                            "UniqueCode": "C0C0402308SEAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "delighted",
+                            "UniqueCode": "C0C04023044wAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "expect",
+                            "UniqueCode": "C0C04021052jAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "overseas",
+                            "UniqueCode": "C0C0402309v2AAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "delay",
+                            "UniqueCode": "C0C04021044YAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "experience",
+                            "UniqueCode": "C0E10097052zAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "rather (...) than",
+                            "UniqueCode": "C0C040270AyUAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "friendliness",
+                            "UniqueCode": "C0E1407405aDAAAAA"
+                        }
+                    ],
+                    "MainKlgList": [
+                        {
+                            "Code": null,
+                            "Name": "occurrence",
+                            "UniqueCode": "C0E2918209aeAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "(a) field of study",
+                            "UniqueCode": "C0E1509600E9AAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "disposition",
+                            "UniqueCode": "C0E0704804JtAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "probable",
+                            "UniqueCode": "C0C040230AezAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "provide (...) to",
+                            "UniqueCode": "C0C0402147SHAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "principal",
+                            "UniqueCode": "C0C040230AdyAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "require",
+                            "UniqueCode": "C0C040210BCcAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "live through",
+                            "UniqueCode": "C0C0402108EEAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "rather",
+                            "UniqueCode": "C0C040250AyTAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "university",
+                            "UniqueCode": "C0E150900EAmAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "business",
+                            "UniqueCode": "C0E3119102h3AAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "service",
+                            "UniqueCode": "C0E311910BuaAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "tourist",
+                            "UniqueCode": "C0E100970DokAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "greatly",
+                            "UniqueCode": "C0C04025063PAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "pleased",
+                            "UniqueCode": "C0C040230AOwAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "instead of (doing) sth.",
+                            "UniqueCode": "C0C0402907CjAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "schedule",
+                            "UniqueCode": "C0E060300BhjAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "foreign",
+                            "UniqueCode": "C0C0402305ShAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "student",
+                            "UniqueCode": "C0E150880Cj2AAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "friendly",
+                            "UniqueCode": "C0C0402305aEAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "act",
+                            "UniqueCode": "C0C0402101FyAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "later",
+                            "UniqueCode": "C0C0402507yIAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "than",
+                            "UniqueCode": "C0C040290DBaAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "plan",
+                            "UniqueCode": "C0E332020AMNAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "look forward to (doing) sth.",
+                            "UniqueCode": "C0C0402108INAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "go",
+                            "UniqueCode": "C0C0402105tPAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "country",
+                            "UniqueCode": "C0E2917203iVAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "place",
+                            "UniqueCode": "C0E100970ALqAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "where",
+                            "UniqueCode": "C0C040250Eh9AAAAA"
+                        }
+                    ],
+                    "ThemeKlgList": [],
+                    "QuesAudio": {
+                        "Article": "",
+                        "Path": "",
+                        "Duration": 0
+                    },
+                    "QuesBody": "",
+                    "ChildList": [
+                        {
+                            "ChildAnswerType": 1,
+                            "TKAnswerType": 32,
+                            "ChildAsk": "<P class=\"tq-p\";>delighted <SPAN><span id=\"1\" style=\"display:none\" class=\"\"></span><span>1.</span> <span  id=\"blank1\"  class=\"znbkblank\"  style=\"display:inline-block;height:20px;text-align:center;text-indent:0;border-bottom:1px solid #333;min-width:70px;\"  onclick=\"clickFunction('1')\" ></span> <span id=\"analysis1\" class=\"znbkanalysis\" style=\"display:none;\">析</span></SPAN></P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 1,
+                            "ChildAnswer": "D",
+                            "ChildFullAnswer": "D",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": false,
+                            "IsIndentChildAnswer": false,
+                            "ChildOptionList": [
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the principal field of study of a student at a university",
+                                    "OptionIndex": "A",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "a friendly disposition",
+                                    "OptionIndex": "B",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the business of providing services to tourists",
+                                    "OptionIndex": "C",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "greatly pleased",
+                                    "OptionIndex": "D",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "instead of",
+                                    "OptionIndex": "E",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "act later than planned, scheduled, or required",
+                                    "OptionIndex": "F",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "look forward to the probable occurrence of",
+                                    "OptionIndex": "G",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go or live through",
+                                    "OptionIndex": "H",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "in a foreign country",
+                                    "OptionIndex": "I",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go and get them from the place where they are",
+                                    "OptionIndex": "J",
+                                    "ShowType": 0
+                                }
+                            ],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "1",
+                                    "ItemSortIndex": "1",
+                                    "ItemAnswer": "D",
+                                    "ItemFullAnswer": [
+                                        "D"
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the principal field of study of a student at a university",
+                                            "OptionIndex": "A",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "a friendly disposition",
+                                            "OptionIndex": "B",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the business of providing services to tourists",
+                                            "OptionIndex": "C",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "greatly pleased",
+                                            "OptionIndex": "D",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "instead of",
+                                            "OptionIndex": "E",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "act later than planned, scheduled, or required",
+                                            "OptionIndex": "F",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "look forward to the probable occurrence of",
+                                            "OptionIndex": "G",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go or live through",
+                                            "OptionIndex": "H",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "in a foreign country",
+                                            "OptionIndex": "I",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go and get them from the place where they are",
+                                            "OptionIndex": "J",
+                                            "ShowType": 0
+                                        }
+                                    ],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        },
+                        {
+                            "ChildAnswerType": 1,
+                            "TKAnswerType": 32,
+                            "ChildAsk": "<P class=\"tq-p\";>expect <SPAN><span id=\"2\" style=\"display:none\" class=\"\"></span><span>2.</span> <span  id=\"blank2\"  class=\"znbkblank\"  style=\"display:inline-block;height:20px;text-align:center;text-indent:0;border-bottom:1px solid #333;min-width:70px;\"  onclick=\"clickFunction('2')\" ></span> <span id=\"analysis2\" class=\"znbkanalysis\" style=\"display:none;\">析</span></SPAN></P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 1,
+                            "ChildAnswer": "G",
+                            "ChildFullAnswer": "G",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": false,
+                            "IsIndentChildAnswer": false,
+                            "ChildOptionList": [
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the principal field of study of a student at a university",
+                                    "OptionIndex": "A",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "a friendly disposition",
+                                    "OptionIndex": "B",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the business of providing services to tourists",
+                                    "OptionIndex": "C",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "greatly pleased",
+                                    "OptionIndex": "D",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "instead of",
+                                    "OptionIndex": "E",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "act later than planned, scheduled, or required",
+                                    "OptionIndex": "F",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "look forward to the probable occurrence of",
+                                    "OptionIndex": "G",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go or live through",
+                                    "OptionIndex": "H",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "in a foreign country",
+                                    "OptionIndex": "I",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go and get them from the place where they are",
+                                    "OptionIndex": "J",
+                                    "ShowType": 0
+                                }
+                            ],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "2",
+                                    "ItemSortIndex": "2",
+                                    "ItemAnswer": "G",
+                                    "ItemFullAnswer": [
+                                        "G"
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the principal field of study of a student at a university",
+                                            "OptionIndex": "A",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "a friendly disposition",
+                                            "OptionIndex": "B",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the business of providing services to tourists",
+                                            "OptionIndex": "C",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "greatly pleased",
+                                            "OptionIndex": "D",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "instead of",
+                                            "OptionIndex": "E",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "act later than planned, scheduled, or required",
+                                            "OptionIndex": "F",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "look forward to the probable occurrence of",
+                                            "OptionIndex": "G",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go or live through",
+                                            "OptionIndex": "H",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "in a foreign country",
+                                            "OptionIndex": "I",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go and get them from the place where they are",
+                                            "OptionIndex": "J",
+                                            "ShowType": 0
+                                        }
+                                    ],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        },
+                        {
+                            "ChildAnswerType": 1,
+                            "TKAnswerType": 32,
+                            "ChildAsk": "<P class=\"tq-p\";>rather than <SPAN><span id=\"3\" style=\"display:none\" class=\"\"></span><span>3.</span> <span  id=\"blank3\"  class=\"znbkblank\"  style=\"display:inline-block;height:20px;text-align:center;text-indent:0;border-bottom:1px solid #333;min-width:70px;\"  onclick=\"clickFunction('3')\" ></span> <span id=\"analysis3\" class=\"znbkanalysis\" style=\"display:none;\">析</span></SPAN></P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 1,
+                            "ChildAnswer": "E",
+                            "ChildFullAnswer": "E",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": false,
+                            "IsIndentChildAnswer": false,
+                            "ChildOptionList": [
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the principal field of study of a student at a university",
+                                    "OptionIndex": "A",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "a friendly disposition",
+                                    "OptionIndex": "B",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the business of providing services to tourists",
+                                    "OptionIndex": "C",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "greatly pleased",
+                                    "OptionIndex": "D",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "instead of",
+                                    "OptionIndex": "E",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "act later than planned, scheduled, or required",
+                                    "OptionIndex": "F",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "look forward to the probable occurrence of",
+                                    "OptionIndex": "G",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go or live through",
+                                    "OptionIndex": "H",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "in a foreign country",
+                                    "OptionIndex": "I",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go and get them from the place where they are",
+                                    "OptionIndex": "J",
+                                    "ShowType": 0
+                                }
+                            ],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "3",
+                                    "ItemSortIndex": "3",
+                                    "ItemAnswer": "E",
+                                    "ItemFullAnswer": [
+                                        "E"
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the principal field of study of a student at a university",
+                                            "OptionIndex": "A",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "a friendly disposition",
+                                            "OptionIndex": "B",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the business of providing services to tourists",
+                                            "OptionIndex": "C",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "greatly pleased",
+                                            "OptionIndex": "D",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "instead of",
+                                            "OptionIndex": "E",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "act later than planned, scheduled, or required",
+                                            "OptionIndex": "F",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "look forward to the probable occurrence of",
+                                            "OptionIndex": "G",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go or live through",
+                                            "OptionIndex": "H",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "in a foreign country",
+                                            "OptionIndex": "I",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go and get them from the place where they are",
+                                            "OptionIndex": "J",
+                                            "ShowType": 0
+                                        }
+                                    ],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        },
+                        {
+                            "ChildAnswerType": 1,
+                            "TKAnswerType": 32,
+                            "ChildAsk": "<P class=\"tq-p\";>friendliness <SPAN><span id=\"4\" style=\"display:none\" class=\"\"></span><span>4.</span> <span  id=\"blank4\"  class=\"znbkblank\"  style=\"display:inline-block;height:20px;text-align:center;text-indent:0;border-bottom:1px solid #333;min-width:70px;\"  onclick=\"clickFunction('4')\" ></span> <span id=\"analysis4\" class=\"znbkanalysis\" style=\"display:none;\">析</span></SPAN></P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 1,
+                            "ChildAnswer": "B",
+                            "ChildFullAnswer": "B",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": false,
+                            "IsIndentChildAnswer": false,
+                            "ChildOptionList": [
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the principal field of study of a student at a university",
+                                    "OptionIndex": "A",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "a friendly disposition",
+                                    "OptionIndex": "B",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the business of providing services to tourists",
+                                    "OptionIndex": "C",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "greatly pleased",
+                                    "OptionIndex": "D",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "instead of",
+                                    "OptionIndex": "E",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "act later than planned, scheduled, or required",
+                                    "OptionIndex": "F",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "look forward to the probable occurrence of",
+                                    "OptionIndex": "G",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go or live through",
+                                    "OptionIndex": "H",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "in a foreign country",
+                                    "OptionIndex": "I",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go and get them from the place where they are",
+                                    "OptionIndex": "J",
+                                    "ShowType": 0
+                                }
+                            ],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "4",
+                                    "ItemSortIndex": "4",
+                                    "ItemAnswer": "B",
+                                    "ItemFullAnswer": [
+                                        "B"
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the principal field of study of a student at a university",
+                                            "OptionIndex": "A",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "a friendly disposition",
+                                            "OptionIndex": "B",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the business of providing services to tourists",
+                                            "OptionIndex": "C",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "greatly pleased",
+                                            "OptionIndex": "D",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "instead of",
+                                            "OptionIndex": "E",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "act later than planned, scheduled, or required",
+                                            "OptionIndex": "F",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "look forward to the probable occurrence of",
+                                            "OptionIndex": "G",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go or live through",
+                                            "OptionIndex": "H",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "in a foreign country",
+                                            "OptionIndex": "I",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go and get them from the place where they are",
+                                            "OptionIndex": "J",
+                                            "ShowType": 0
+                                        }
+                                    ],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        },
+                        {
+                            "ChildAnswerType": 1,
+                            "TKAnswerType": 32,
+                            "ChildAsk": "<P class=\"tq-p\";>tourism <SPAN><span id=\"5\" style=\"display:none\" class=\"\"></span><span>5.</span> <span  id=\"blank5\"  class=\"znbkblank\"  style=\"display:inline-block;height:20px;text-align:center;text-indent:0;border-bottom:1px solid #333;min-width:70px;\"  onclick=\"clickFunction('5')\" ></span> <span id=\"analysis5\" class=\"znbkanalysis\" style=\"display:none;\">析</span></SPAN></P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 1,
+                            "ChildAnswer": "C",
+                            "ChildFullAnswer": "C",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": false,
+                            "IsIndentChildAnswer": false,
+                            "ChildOptionList": [
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the principal field of study of a student at a university",
+                                    "OptionIndex": "A",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "a friendly disposition",
+                                    "OptionIndex": "B",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the business of providing services to tourists",
+                                    "OptionIndex": "C",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "greatly pleased",
+                                    "OptionIndex": "D",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "instead of",
+                                    "OptionIndex": "E",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "act later than planned, scheduled, or required",
+                                    "OptionIndex": "F",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "look forward to the probable occurrence of",
+                                    "OptionIndex": "G",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go or live through",
+                                    "OptionIndex": "H",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "in a foreign country",
+                                    "OptionIndex": "I",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go and get them from the place where they are",
+                                    "OptionIndex": "J",
+                                    "ShowType": 0
+                                }
+                            ],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "5",
+                                    "ItemSortIndex": "5",
+                                    "ItemAnswer": "C",
+                                    "ItemFullAnswer": [
+                                        "C"
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the principal field of study of a student at a university",
+                                            "OptionIndex": "A",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "a friendly disposition",
+                                            "OptionIndex": "B",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the business of providing services to tourists",
+                                            "OptionIndex": "C",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "greatly pleased",
+                                            "OptionIndex": "D",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "instead of",
+                                            "OptionIndex": "E",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "act later than planned, scheduled, or required",
+                                            "OptionIndex": "F",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "look forward to the probable occurrence of",
+                                            "OptionIndex": "G",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go or live through",
+                                            "OptionIndex": "H",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "in a foreign country",
+                                            "OptionIndex": "I",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go and get them from the place where they are",
+                                            "OptionIndex": "J",
+                                            "ShowType": 0
+                                        }
+                                    ],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        },
+                        {
+                            "ChildAnswerType": 1,
+                            "TKAnswerType": 32,
+                            "ChildAsk": "<P class=\"tq-p\";>overseas <SPAN><span id=\"6\" style=\"display:none\" class=\"\"></span><span>6.</span> <span  id=\"blank6\"  class=\"znbkblank\"  style=\"display:inline-block;height:20px;text-align:center;text-indent:0;border-bottom:1px solid #333;min-width:70px;\"  onclick=\"clickFunction('6')\" ></span> <span id=\"analysis6\" class=\"znbkanalysis\" style=\"display:none;\">析</span></SPAN></P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 1,
+                            "ChildAnswer": "I",
+                            "ChildFullAnswer": "I",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": false,
+                            "IsIndentChildAnswer": false,
+                            "ChildOptionList": [
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the principal field of study of a student at a university",
+                                    "OptionIndex": "A",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "a friendly disposition",
+                                    "OptionIndex": "B",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the business of providing services to tourists",
+                                    "OptionIndex": "C",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "greatly pleased",
+                                    "OptionIndex": "D",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "instead of",
+                                    "OptionIndex": "E",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "act later than planned, scheduled, or required",
+                                    "OptionIndex": "F",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "look forward to the probable occurrence of",
+                                    "OptionIndex": "G",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go or live through",
+                                    "OptionIndex": "H",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "in a foreign country",
+                                    "OptionIndex": "I",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go and get them from the place where they are",
+                                    "OptionIndex": "J",
+                                    "ShowType": 0
+                                }
+                            ],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "6",
+                                    "ItemSortIndex": "6",
+                                    "ItemAnswer": "I",
+                                    "ItemFullAnswer": [
+                                        "I"
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the principal field of study of a student at a university",
+                                            "OptionIndex": "A",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "a friendly disposition",
+                                            "OptionIndex": "B",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the business of providing services to tourists",
+                                            "OptionIndex": "C",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "greatly pleased",
+                                            "OptionIndex": "D",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "instead of",
+                                            "OptionIndex": "E",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "act later than planned, scheduled, or required",
+                                            "OptionIndex": "F",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "look forward to the probable occurrence of",
+                                            "OptionIndex": "G",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go or live through",
+                                            "OptionIndex": "H",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "in a foreign country",
+                                            "OptionIndex": "I",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go and get them from the place where they are",
+                                            "OptionIndex": "J",
+                                            "ShowType": 0
+                                        }
+                                    ],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        },
+                        {
+                            "ChildAnswerType": 1,
+                            "TKAnswerType": 32,
+                            "ChildAsk": "<P class=\"tq-p\";>fetch <SPAN><span id=\"7\" style=\"display:none\" class=\"\"></span><span>7.</span> <span  id=\"blank7\"  class=\"znbkblank\"  style=\"display:inline-block;height:20px;text-align:center;text-indent:0;border-bottom:1px solid #333;min-width:70px;\"  onclick=\"clickFunction('7')\" ></span> <span id=\"analysis7\" class=\"znbkanalysis\" style=\"display:none;\">析</span></SPAN></P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 1,
+                            "ChildAnswer": "J",
+                            "ChildFullAnswer": "J",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": false,
+                            "IsIndentChildAnswer": false,
+                            "ChildOptionList": [
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the principal field of study of a student at a university",
+                                    "OptionIndex": "A",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "a friendly disposition",
+                                    "OptionIndex": "B",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the business of providing services to tourists",
+                                    "OptionIndex": "C",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "greatly pleased",
+                                    "OptionIndex": "D",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "instead of",
+                                    "OptionIndex": "E",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "act later than planned, scheduled, or required",
+                                    "OptionIndex": "F",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "look forward to the probable occurrence of",
+                                    "OptionIndex": "G",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go or live through",
+                                    "OptionIndex": "H",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "in a foreign country",
+                                    "OptionIndex": "I",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go and get them from the place where they are",
+                                    "OptionIndex": "J",
+                                    "ShowType": 0
+                                }
+                            ],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "7",
+                                    "ItemSortIndex": "7",
+                                    "ItemAnswer": "J",
+                                    "ItemFullAnswer": [
+                                        "J"
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the principal field of study of a student at a university",
+                                            "OptionIndex": "A",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "a friendly disposition",
+                                            "OptionIndex": "B",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the business of providing services to tourists",
+                                            "OptionIndex": "C",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "greatly pleased",
+                                            "OptionIndex": "D",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "instead of",
+                                            "OptionIndex": "E",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "act later than planned, scheduled, or required",
+                                            "OptionIndex": "F",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "look forward to the probable occurrence of",
+                                            "OptionIndex": "G",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go or live through",
+                                            "OptionIndex": "H",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "in a foreign country",
+                                            "OptionIndex": "I",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go and get them from the place where they are",
+                                            "OptionIndex": "J",
+                                            "ShowType": 0
+                                        }
+                                    ],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        },
+                        {
+                            "ChildAnswerType": 1,
+                            "TKAnswerType": 32,
+                            "ChildAsk": "<P class=\"tq-p\";>delay <SPAN><span id=\"8\" style=\"display:none\" class=\"\"></span><span>8.</span> <span  id=\"blank8\"  class=\"znbkblank\"  style=\"display:inline-block;height:20px;text-align:center;text-indent:0;border-bottom:1px solid #333;min-width:70px;\"  onclick=\"clickFunction('8')\" ></span> <span id=\"analysis8\" class=\"znbkanalysis\" style=\"display:none;\">析</span></SPAN></P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 1,
+                            "ChildAnswer": "F",
+                            "ChildFullAnswer": "F",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": false,
+                            "IsIndentChildAnswer": false,
+                            "ChildOptionList": [
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the principal field of study of a student at a university",
+                                    "OptionIndex": "A",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "a friendly disposition",
+                                    "OptionIndex": "B",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the business of providing services to tourists",
+                                    "OptionIndex": "C",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "greatly pleased",
+                                    "OptionIndex": "D",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "instead of",
+                                    "OptionIndex": "E",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "act later than planned, scheduled, or required",
+                                    "OptionIndex": "F",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "look forward to the probable occurrence of",
+                                    "OptionIndex": "G",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go or live through",
+                                    "OptionIndex": "H",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "in a foreign country",
+                                    "OptionIndex": "I",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go and get them from the place where they are",
+                                    "OptionIndex": "J",
+                                    "ShowType": 0
+                                }
+                            ],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "8",
+                                    "ItemSortIndex": "8",
+                                    "ItemAnswer": "F",
+                                    "ItemFullAnswer": [
+                                        "F"
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the principal field of study of a student at a university",
+                                            "OptionIndex": "A",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "a friendly disposition",
+                                            "OptionIndex": "B",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the business of providing services to tourists",
+                                            "OptionIndex": "C",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "greatly pleased",
+                                            "OptionIndex": "D",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "instead of",
+                                            "OptionIndex": "E",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "act later than planned, scheduled, or required",
+                                            "OptionIndex": "F",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "look forward to the probable occurrence of",
+                                            "OptionIndex": "G",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go or live through",
+                                            "OptionIndex": "H",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "in a foreign country",
+                                            "OptionIndex": "I",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go and get them from the place where they are",
+                                            "OptionIndex": "J",
+                                            "ShowType": 0
+                                        }
+                                    ],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        },
+                        {
+                            "ChildAnswerType": 1,
+                            "TKAnswerType": 32,
+                            "ChildAsk": "<P class=\"tq-p\";>major <SPAN><span id=\"9\" style=\"display:none\" class=\"\"></span><span>9.</span> <span  id=\"blank9\"  class=\"znbkblank\"  style=\"display:inline-block;height:20px;text-align:center;text-indent:0;border-bottom:1px solid #333;min-width:70px;\"  onclick=\"clickFunction('9')\" ></span> <span id=\"analysis9\" class=\"znbkanalysis\" style=\"display:none;\">析</span></SPAN></P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 1,
+                            "ChildAnswer": "A",
+                            "ChildFullAnswer": "A",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": false,
+                            "IsIndentChildAnswer": false,
+                            "ChildOptionList": [
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the principal field of study of a student at a university",
+                                    "OptionIndex": "A",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "a friendly disposition",
+                                    "OptionIndex": "B",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the business of providing services to tourists",
+                                    "OptionIndex": "C",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "greatly pleased",
+                                    "OptionIndex": "D",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "instead of",
+                                    "OptionIndex": "E",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "act later than planned, scheduled, or required",
+                                    "OptionIndex": "F",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "look forward to the probable occurrence of",
+                                    "OptionIndex": "G",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go or live through",
+                                    "OptionIndex": "H",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "in a foreign country",
+                                    "OptionIndex": "I",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go and get them from the place where they are",
+                                    "OptionIndex": "J",
+                                    "ShowType": 0
+                                }
+                            ],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "9",
+                                    "ItemSortIndex": "9",
+                                    "ItemAnswer": "A",
+                                    "ItemFullAnswer": [
+                                        "A"
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the principal field of study of a student at a university",
+                                            "OptionIndex": "A",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "a friendly disposition",
+                                            "OptionIndex": "B",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the business of providing services to tourists",
+                                            "OptionIndex": "C",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "greatly pleased",
+                                            "OptionIndex": "D",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "instead of",
+                                            "OptionIndex": "E",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "act later than planned, scheduled, or required",
+                                            "OptionIndex": "F",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "look forward to the probable occurrence of",
+                                            "OptionIndex": "G",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go or live through",
+                                            "OptionIndex": "H",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "in a foreign country",
+                                            "OptionIndex": "I",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go and get them from the place where they are",
+                                            "OptionIndex": "J",
+                                            "ShowType": 0
+                                        }
+                                    ],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        },
+                        {
+                            "ChildAnswerType": 1,
+                            "TKAnswerType": 32,
+                            "ChildAsk": "<P class=\"tq-p\";>experience <SPAN><span id=\"10\" style=\"display:none\" class=\"\"></span><span>10.</span> <span  id=\"blank10\"  class=\"znbkblank\"  style=\"display:inline-block;height:20px;text-align:center;text-indent:0;border-bottom:1px solid #333;min-width:70px;\"  onclick=\"clickFunction('10')\" ></span> <span id=\"analysis10\" class=\"znbkanalysis\" style=\"display:none;\">析</span></SPAN></P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 1,
+                            "ChildAnswer": "H",
+                            "ChildFullAnswer": "H",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": false,
+                            "IsIndentChildAnswer": false,
+                            "ChildOptionList": [
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the principal field of study of a student at a university",
+                                    "OptionIndex": "A",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "a friendly disposition",
+                                    "OptionIndex": "B",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "the business of providing services to tourists",
+                                    "OptionIndex": "C",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "greatly pleased",
+                                    "OptionIndex": "D",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "instead of",
+                                    "OptionIndex": "E",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "act later than planned, scheduled, or required",
+                                    "OptionIndex": "F",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "look forward to the probable occurrence of",
+                                    "OptionIndex": "G",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go or live through",
+                                    "OptionIndex": "H",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "in a foreign country",
+                                    "OptionIndex": "I",
+                                    "ShowType": 0
+                                },
+                                {
+                                    "StuCount": "0人",
+                                    "Rate": "0.00%",
+                                    "IsRight": false,
+                                    "Option": "go and get them from the place where they are",
+                                    "OptionIndex": "J",
+                                    "ShowType": 0
+                                }
+                            ],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "10",
+                                    "ItemSortIndex": "10",
+                                    "ItemAnswer": "H",
+                                    "ItemFullAnswer": [
+                                        "H"
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the principal field of study of a student at a university",
+                                            "OptionIndex": "A",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "a friendly disposition",
+                                            "OptionIndex": "B",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "the business of providing services to tourists",
+                                            "OptionIndex": "C",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "greatly pleased",
+                                            "OptionIndex": "D",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "instead of",
+                                            "OptionIndex": "E",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "act later than planned, scheduled, or required",
+                                            "OptionIndex": "F",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "look forward to the probable occurrence of",
+                                            "OptionIndex": "G",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go or live through",
+                                            "OptionIndex": "H",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "in a foreign country",
+                                            "OptionIndex": "I",
+                                            "ShowType": 0
+                                        },
+                                        {
+                                            "StuCount": "0人",
+                                            "Rate": "0.00%",
+                                            "IsRight": false,
+                                            "Option": "go and get them from the place where they are",
+                                            "OptionIndex": "J",
+                                            "ShowType": 0
+                                        }
+                                    ],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        }
+                    ],
+                    "QuesBrief": "delighted ____",
+                    "ModelTextInfoList": [],
+                    "ModelAnswerInfoList": [],
+                    "ModelAnswerAreaList": [],
+                    "QuesGuidance": "",
+                    "IsIndentQuesArticle": false,
+                    "IsIndentQuesBody": false,
+                    "QuesChild_CnOrEng": "",
+                    "QuesChildSorce": 0.0,
+                    "AudioSpeed": 1.0,
+                    "GenreID": 87,
+                    "GenreName": "英文释义匹配",
+                    "TypeNo": "m",
+                    "TypeName": "匹配题"
+                }
+            ],
+            "IsMerge": false,
+            "NickName": null,
+            "Introduction": null,
+            "TypeIndex": 1,
+            "EvalType": 0,
+            "LevelType": 0,
+            "TypeName": "匹配题",
+            "GenreName": "英文释义匹配",
+            "TypeNo": "m",
+            "GenreID": 87
+        },
+        {
+            "QuesList": [
+                {
+                    "SortIndexList": [],
+                    "Index": 1,
+                    "QuesID": "df53c641b39a4193b7deb604f0f1971d"
+                }
+            ],
+            "QuesDetailList": [
+                {
+                    "BigAudioPath": "",
+                    "QuesID": "df53c641b39a4193b7deb604f0f1971d",
+                    "AudioList": [],
+                    "LittleAudioList": [],
+                    "AudioArticle": "",
+                    "LevelType": 3,
+                    "EvalType": 2,
+                    "GenreType": "",
+                    "HVAL": "0.25",
+                    "DVAL": "0.30",
+                    "EXVAL": "0.0",
+                    "SpecialFeatureCodes": "",
+                    "QuesChildNum": 1,
+                    "TotalItemCount": 1,
+                    "SortNum": 1,
+                    "Theme": "",
+                    "ImportKlgList": [
+                        {
+                            "Code": null,
+                            "Name": "There + (情态动词/助动词) + be动词 + 主语 + (...)",
+                            "UniqueCode": "C0D050120DaIAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "no wonder",
+                            "UniqueCode": "C0C0402548GmAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "various",
+                            "UniqueCode": "C0C040230ELKAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "theme",
+                            "UniqueCode": "C0E191290DZeAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "unique",
+                            "UniqueCode": "C0C040230E9iAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "attraction",
+                            "UniqueCode": "C0E1407601wLAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "impress",
+                            "UniqueCode": "C0C0402106sNAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "主句, whatever等加ever的连词 + 从句",
+                            "UniqueCode": "C0D050180F5vAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "character",
+                            "UniqueCode": "C0E07048031ZAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "minority",
+                            "UniqueCode": "C0E2917208uRAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "amusement",
+                            "UniqueCode": "C0E1812601YkAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "(be) modelled after",
+                            "UniqueCode": "C0C0402100zaAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "主句, which + 从句其他部分",
+                            "UniqueCode": "C0D050200F5yAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "主句(,) as + 从句",
+                            "UniqueCode": "C0D050180F5TAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "admission",
+                            "UniqueCode": "C0E1508801IfAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "reasonable",
+                            "UniqueCode": "C0C040230B18AAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "tourism",
+                            "UniqueCode": "C0E311910DoiAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "economy",
+                            "UniqueCode": "C0E3100004dDAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "greatly",
+                            "UniqueCode": "C0C04025063PAAAAA"
+                        }
+                    ],
+                    "MainKlgList": [
+                        {
+                            "Code": null,
+                            "Name": "and so on/forth",
+                            "UniqueCode": "C0C0402501aIAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "(be) good for",
+                            "UniqueCode": "C0C0402100xiAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "visit",
+                            "UniqueCode": "C0C040210ER2AAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "cartoon",
+                            "UniqueCode": "C0C0402102twAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "culture",
+                            "UniqueCode": "C0E3220003qIAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "(be) famous for",
+                            "UniqueCode": "C0C0402300x9AAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "building",
+                            "UniqueCode": "C0E1913702eYAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "model",
+                            "UniqueCode": "C0E1211508xfAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "after",
+                            "UniqueCode": "C0C0402501LqAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "as",
+                            "UniqueCode": "C0C0402501nRAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "in general",
+                            "UniqueCode": "C0C0402506wEAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "wonder",
+                            "UniqueCode": "C0E332020ErRAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "local",
+                            "UniqueCode": "C0C0402308FHAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "such + a/an + (形容词) + 单数可数名词",
+                            "UniqueCode": "C0C0402348VFAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "get close to",
+                            "UniqueCode": "C0C040214856AAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "all over the world",
+                            "UniqueCode": "C0C0402501SgAAAAA"
+                        },
+                        {
+                            "Code": null,
+                            "Name": "(a) theme park",
+                            "UniqueCode": "C0E1009500gVAAAAA"
+                        }
+                    ],
+                    "ThemeKlgList": [],
+                    "QuesAudio": {
+                        "Article": "",
+                        "Path": "",
+                        "Duration": 0
+                    },
+                    "QuesBody": "",
+                    "ChildList": [
+                        {
+                            "ChildAnswerType": 3,
+                            "TKAnswerType": 4,
+                            "ChildAsk": "世界上有各种各样的 (various) 主题 (theme) 公园。无论你参观哪一个公园，其独特的 (unique) 吸引人的地方 (attraction) 都将会给你留下深刻的印象。有些主题公园以卡通 (cartoon) 角色而闻名 (be famous for)，一些以少数民族 (minority) 文化而出名，一些以娱乐 (amusement) 而闻名。一些主题公园的建筑模仿 (be modelled after) 世界各地著名的建筑，你可以靠近 (get close to) 它们。一般来说，入场费合情合理。难怪 (no wonder that) 哪里有这样的公园，对当地的旅游业 (tourism) 和经济都有益。<P>______________________________</P>",
+                            "ChildAskText": "",
+                            "ChildAudio": {
+                                "Article": "",
+                                "Path": "",
+                                "Duration": 0
+                            },
+                            "SortIndexType": 0,
+                            "ChildAnswer": "There are various theme parks all over the world. Whichever park you visit, its unique attraction will impress you greatly. Some are famous for cartoons characters, some others for cultures from minorities, some just for amusement and so on. Some buildings of these parks are modelled after famous buildings all over the world, which you can get close to as you like. In general, the admission is reasonable. No wonder that wherever there is such a park, it is good for the local tourism and its economy.",
+                            "ChildFullAnswer": "There are various theme parks all over the world. Whichever park you visit, its unique attraction will impress you greatly. Some are famous for cartoons characters, some others for cultures from minorities, some just for amusement and so on. Some buildings of these parks are modelled after famous buildings all over the world, which you can get close to as you like. In general, the admission is reasonable. No wonder that wherever there is such a park, it is good for the local tourism and its economy.",
+                            "ChildAnalysis": "",
+                            "IsIndentChildAsk": true,
+                            "IsIndentChildAnswer": true,
+                            "ChildOptionList": [],
+                            "ItemList": [
+                                {
+                                    "SortIndex": "1",
+                                    "ItemSortIndex": "1",
+                                    "ItemAnswer": "There are various theme parks all over the world. Whichever park you visit, its unique attraction will impress you greatly. Some are famous for cartoons characters, some others for cultures from minorities, some just for amusement and so on. Some buildings of these parks are modelled after famous buildings all over the world, which you can get close to as you like. In general, the admission is reasonable. No wonder that wherever there is such a park, it is good for the local tourism and its economy.",
+                                    "ItemFullAnswer": [
+                                        "There are various theme parks all over the world. Whichever park you visit, its unique attraction will impress you greatly. Some are famous for cartoons characters, some others for cultures from minorities, some just for amusement and so on. Some buildings of these parks are modelled after famous buildings all over the world, which you can get close to as you like. In general, the admission is reasonable. No wonder that wherever there is such a park, it is good for the local tourism and its economy."
+                                    ],
+                                    "ItemAnalysis": "",
+                                    "ItemOptionList": [],
+                                    "ItemAskList": [],
+                                    "IsRemark": true,
+                                    "ItemName": "",
+                                    "IsEval": true
+                                }
+                            ]
+                        }
+                    ],
+                    "QuesBrief": "世界上有各种各样的 (various) 主题 (theme) 公园。无论你参观哪一个公园，其独特的 (unique) 吸引人的地方 (attraction) 都将会给你留下深刻的印象。有些主题公园以卡通 (cartoon) 角色而闻名 (be famous for)，一些以少数民族 (minority) 文化而出名，一些以娱乐 (amusement) 而闻名。一些主题公园的建筑模仿 (be modelled after) 世界各地著名的建筑，你可以靠近 (get close to) 它们。一般来说，入场费合情合理。难怪 (no wonder that) 哪里有这样的公园，对当地的旅游业 (tourism) 和经济都有益。______________________________",
+                    "ModelTextInfoList": [],
+                    "ModelAnswerInfoList": [],
+                    "ModelAnswerAreaList": [],
+                    "QuesGuidance": "",
+                    "IsIndentQuesArticle": false,
+                    "IsIndentQuesBody": false,
+                    "QuesChild_CnOrEng": "",
+                    "QuesChildSorce": 0.0,
+                    "AudioSpeed": 1.0,
+                    "GenreID": 41,
+                    "GenreName": "篇章中译英",
+                    "TypeNo": "g",
+                    "TypeName": "翻译题"
+                }
+            ],
+            "IsMerge": false,
+            "NickName": null,
+            "Introduction": null,
+            "TypeIndex": 2,
+            "EvalType": 0,
+            "LevelType": 0,
+            "TypeName": "翻译题",
+            "GenreName": "篇章中译英",
+            "TypeNo": "g",
+            "GenreID": 41
+        }
+    ],
+    "ProvinceID": "110000",
+    "CityID": "110100"
+}
